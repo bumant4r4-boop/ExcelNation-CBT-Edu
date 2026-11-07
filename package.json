@@ -1,0 +1,14 @@
+{
+  "name": "excelnation-cbt-edu-online",
+  "version": "1.0.0",
+  "description": "ExcelNation CBT Edu — ujian online multi-perangkat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "online": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED"
+}
